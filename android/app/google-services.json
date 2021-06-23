@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656844760534",
+    "project_id": "usj-chat-854ec",
+    "storage_bucket": "usj-chat-854ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656844760534:android:df1a167a12a3843e307077",
+        "android_client_info": {
+          "package_name": "br.saojose.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656844760534-1q9demn898oq9l6mg1ou117u8hdlrb3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyWYtbE7MYbwzrnugtjffHBFOuysbFbcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656844760534-1q9demn898oq9l6mg1ou117u8hdlrb3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
